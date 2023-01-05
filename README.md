@@ -6,7 +6,7 @@ The 8th district was chosen for its reputation for having many small shops and r
 The date/time factor should be the most prominent information, and the animation in the gif represents it much better than the colour scale in the png.
 
 <p float="left">
-  <img align="top" src="christmas2022/christmas2022.gif" height="280" alt="gif of Josefstadt, Vienna showing when decorations go up in shops"/>
+  <img align="top" src="christmas2022/christmas2022.gif" height="280" width="379" alt="gif of Josefstadt, Vienna showing when decorations go up in shops"/>
   <img align="top" src="christmas2022/christmas2022.png" height="280" alt="map of Josefstadt, Vienna showing when decorations go up in shops"/>
 </p>
 
