@@ -7,7 +7,7 @@ The date/time factor should be the most prominent information, and the animation
 
 <p float="left">
   <img align="top" src="christmas2022/christmas2022.gif" height="280" width="280" alt="gif of Josefstadt, Vienna showing when decorations go up in shops"/>
-  <img align="top" src="christmas2022/christmas2022.png" height="280" alt="map of Josefstadt, Vienna showing when decorations go up in shops"/>
+  <img align="top" src="christmas2022/christmas2022.png" height="280" width="379" alt="map of Josefstadt, Vienna showing when decorations go up in shops"/>
 </p>
 
 
