@@ -16,7 +16,7 @@ Flats in Linz from 2000-2022 according to number of rooms. Data from Stadt Linz 
 
 <p float="left">
   <img align="top" src="linz_wohnung/linz_wohnung.png" height="261" width="450" alt="area plot and line plot of flats in Linz from 2000-2022"/>
-    <img align="top" src="linz_wohnung/linz_wohnung_shiny.png" height="261" width="197" alt="shiny app to visualise data on flats in Linz from 2000-2022"/>
+    <img align="top" src="linz_wohnung/linz_wohnung_shiny.png" height="261" width="346" alt="shiny app to visualise data on flats in Linz from 2000-2022"/>
     </p>
 
 
