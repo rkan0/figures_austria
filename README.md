@@ -1,14 +1,23 @@
 Figures about Austria. In progress and open to comments. 
 
 ## Christmas2022
-The 8th district was chosen for its reputation for having many small shops and restaurants, which were assumed to be more enthusiastic about the revelry. The north-east corner from Josefstädter Straße to Skodagasse contains a manageable 8871m of pavement (one-way), which was covered on foot every Sunday from 20 Nov and 25 Dec. Data was obtained on which commercial premises had ground floor display windows visible from the sidewalk, as well as if and when Christmas decorations appeared in them. The main target was Einzelhandel, so banks, supermarkets, and hotels were excluded. The location of each shop was geo-referenced in QGIS.
-
-The date/time factor should be the most prominent information, and the animation in the gif represents it much better than the colour scale in the png.
+Map of 8th District of Vienna showing when Christmas decorations went up in shop windows. I walked the ~9km to collect the data; the location of each shop was geo-referenced in QGIS. The gif seems to be more suitable for representing the date/time factor. See code for more details.
 
 <p float="left">
   <img align="top" src="christmas2022/christmas2022.gif" height="280" width="280" alt="gif of Josefstadt, Vienna showing when decorations go up in shops"/>
   <img align="top" src="christmas2022/christmas2022.png" height="280" width="379" alt="map of Josefstadt, Vienna showing when decorations go up in shops"/>
 </p>
+
+## Linzer Wohnungen
+Flats in Linz from 2000-2022 according to number of rooms. Data from Stadt Linz and is downloaded at the start of the code. Area plot shows number of rooms and line plot shows percentage change in number of rooms compared to previous year. 
+
+[Shiny app (second image) built on the same data here. ]( https://rkan0.shinyapps.io/Linz_Wohnung/)Code for app in folder. 
+
+
+<p float="left">
+  <img align="top" src="linz_wohnung/linz_wohnung" height="261" width="450" alt="area plot and line plot of flats in Linz from 2000-2022"/>
+    <img align="top" src="linz_wohnung/linz_wohnung_shiny" height="261" width="197" alt="shiny app to visualise data on flats in Linz from 2000-2022"/>
+    </p>
 
 
 
