@@ -1,3 +1,7 @@
+#The 8th district was chosen for its reputation for having many small shops and restaurants, which were assumed to be more enthusiastic about the revelry. Each street between the north-east corner from Josefstädter Straße to Skodagasse contains a manageable 8871m of pavement (one-way) was covered on foot every Sunday from 20 Nov and 25 Dec. Data was obtained on which commercial premises had ground floor display windows visible from the sidewalk, as well as if and when Christmas decorations appeared in them. The main target was Einzelhandel, so banks, supermarkets, and hotels were excluded.  
+
+
+
 library(osmdata)
 library(tidyverse)
 library(sf)
