@@ -19,5 +19,12 @@ Flats in Linz from 2000-2022 according to number of rooms. Data from Stadt Linz 
     <img align="top" src="linz_wohnung/linz_wohnung_shiny.png" height="261" width="346" alt="shiny app to visualise data on flats in Linz from 2000-2022"/>
     </p>
 
+## Hotel room selector
 
+Shiny app to view a list of rooms in a hotel filtered by selected room features. Second tab builds a contingency/pivot table based on room features. 
+
+<p float="left">
+  <img align="top" src="roomselector/roomselector.png" height="259" width="387" alt="shiny app to filter dataset based on selected requirements"/>
+  <img align="top" src="roomselector/rooms_summary.png" height="259" width="387" alt="shiny app to build contingency/pivot table"/>
+</p>
 
